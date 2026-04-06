@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f8ff;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #0066cc;
+    font-size: 32px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+}
+
+ul {
+    padding: 15px;
+    border: 1px solid #999999;
+    background-color: #e6f2ff;
+}
+
+a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #cc0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
